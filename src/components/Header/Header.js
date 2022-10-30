@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Menu = () => {
+const Header = () => {
     return (
         <div>
-            This is Menu Page
+            Header
         </div>
     );
 };
 
-export default Menu;
+export default Header;
